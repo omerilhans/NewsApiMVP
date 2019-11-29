@@ -23,7 +23,7 @@
 
         <variable
             name="listener"
-            type="com.omerilhanli.newsapimvp.asistant.callback.ItemClickListener" />
+            type="ItemClickListener" />
 
         <variable
             name="listVisibility"
@@ -86,6 +86,6 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:visibility="@{progressVisibility.visible}" />
-
     </RelativeLayout>
+
 </layout>
