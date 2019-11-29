@@ -1,5 +1,5 @@
 # News Api MVP
-News Api MVP Sample Project
+News Api Project (Sample)
 
 The project was developed in Kotlin using MVP (Model-View-Presenter) enterprise architecture and Databinding framework.
 
